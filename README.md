@@ -1,4 +1,4 @@
-HIT137 Assignment 2 – Bikash Acharya 
+HIT137 Assignment 2 – Bikash Acharya (S404690)
 
 Question 1: Text encryption and decryption
 This program basically reads from a text file raw_text.txt, encrypts it, then decrypts it back.
@@ -9,7 +9,7 @@ The character without letter remain unchanged.
 also verifies at the end if the decrypt stext matches the original. 
 
 
-HIT137 Assignment 2 – Pramod Gelal 
+HIT137 Assignment 2 – Pramod Gelal (S404823)
 Question 2 - Expression Evaluator 
 This program evaluate mathematical expression from given file using recursive descent parsing and then generates tokens, builds  a parse tree, computes results, and provide the output to output.txt.
 
